@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.AssemblyInfo.cs
+/Users/msmith/source/codeworks/csharp-morningchallenge/bin/Debug/netcoreapp2.1/csharp-morningchallenge.deps.json
+/Users/msmith/source/codeworks/csharp-morningchallenge/bin/Debug/netcoreapp2.1/csharp-morningchallenge.runtimeconfig.json
+/Users/msmith/source/codeworks/csharp-morningchallenge/bin/Debug/netcoreapp2.1/csharp-morningchallenge.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/csharp-morningchallenge/bin/Debug/netcoreapp2.1/csharp-morningchallenge.dll
+/Users/msmith/source/codeworks/csharp-morningchallenge/bin/Debug/netcoreapp2.1/csharp-morningchallenge.pdb
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.dll
+/Users/msmith/source/codeworks/csharp-morningchallenge/obj/Debug/netcoreapp2.1/csharp-morningchallenge.pdb
